@@ -1,2 +1,2 @@
-# Exerc-cios-com-Php
+# Exercícios-com-Php
 Praticando com Php
